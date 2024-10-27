@@ -1,4 +1,4 @@
-<h1 align="center">Quicknet Testing</h1>
+<h1 align="center">Quakenet Testing</h1>
 Esta sección proporciona una visión general de los procedimientos de prueba para el proyecto GitHub Quicknet.
 
 ### Prerrequisitos
