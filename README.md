@@ -6,7 +6,7 @@
   <h1>Quakenet Testing</h1>
 </div>
 
-Esta sección proporciona una visión general de los procedimientos de prueba para el proyecto GitHub Quicknet.
+Esta sección proporciona una visión general de los procedimientos de prueba para el proyecto GitHub Quakenet.
 
 ---
 
